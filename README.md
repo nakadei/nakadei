@@ -8,6 +8,8 @@ Resources:
       YearOfBirth: "1994"
       HumanType: "Traditional Otaku"
       KeyName: "daisuke nakata"
+      HomePage: https://nakadei.jp
+      Twitter: https://twitter.com/nakadeng
       Job: 
         - "Software Developer"
         - "Infrastracture Architect"
