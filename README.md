@@ -1,5 +1,5 @@
 ```yaml
-AWSTemplateFormatVersion: "2010-09-09"
+TemplateFormatVersion: "2010-09-09"
 Description: nakadei profiles
 Resources:
   nakadei:
